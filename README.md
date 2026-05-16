@@ -22,8 +22,8 @@ This project highlights how modern deep learning models can be adapted for ultra
   
 ## System Architecture
 
-COCO Dataset 
-     ↓ 
+COCO Dataset   
+     ↓   
 Data Preprocessing (Filtering Human / Non-Human) 
      ↓ 
 TensorFlow / Keras CNN Model 
